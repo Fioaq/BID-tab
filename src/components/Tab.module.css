@@ -1,0 +1,20 @@
+button{
+    background-color: white;
+    border: 1px solid #dddddd;
+    color: #1d1d1d;
+    margin: 0 3px;
+    width: 5rem;
+    height: 2rem;
+}
+
+button:hover{
+    background-color: #1d1d1d;
+    color: white;
+}
+
+p{
+    border: 2px solid #dddddd;
+    width: 18rem;
+    height: 4rem;
+    padding: 10px;
+}
